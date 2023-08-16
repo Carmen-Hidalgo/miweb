@@ -42,4 +42,5 @@ int main()
     std::cout << "hola estructuras de datos" << endl;
 
     cout << "este print no usa el namespace porque arriba pusimos el using" << endl;
+    cout << "Mi nombre es Carmen Hidalgo" << endl;
 }
